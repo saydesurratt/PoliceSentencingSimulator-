@@ -52,7 +52,7 @@ Rather than relying on a single predictive model, the system uses a **fan-out / 
 
 # 🤖 Agents
 
-## 🟥 Prosecutor Agent
+## Prosecutor Agent
 Represents punitive reasoning and public safety concerns.
 
 ### Responsibilities
@@ -63,7 +63,7 @@ Represents punitive reasoning and public safety concerns.
 
 ---
 
-## 🟦 Defense Agent
+## Defense Agent
 Represents mitigating circumstances and rehabilitation potential.
 
 ### Responsibilities
@@ -74,7 +74,7 @@ Represents mitigating circumstances and rehabilitation potential.
 
 ---
 
-## 🟨 Risk Assessment Agent
+## Risk Assessment Agent
 Generates a heuristic-based risk score inspired by predictive justice systems such as COMPAS.
 
 ### Factors Considered
@@ -94,7 +94,7 @@ risk_score = (
 
 ---
 
-## 🟩 Fairness Agent
+##  Fairness Agent
 Acts as an ethical oversight layer.
 
 ### Responsibilities
